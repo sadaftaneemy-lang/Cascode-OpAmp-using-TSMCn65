@@ -8,3 +8,25 @@ A Cascode Op-Amp is an operational amplifier in which one or more amplification 
 
 - Cadence Virtuoso
 - TSMC Node65
+
+## What is a Cascode?
+
+A cascode is formed by connecting:
+
+Bottom transistor: Common Source (CS) MOSFET
+
+Top transistor: Common Gate (CG) MOSFET
+
+The top transistor shields the bottom transistor from large drain voltage variations.
+
+      VDD
+       |
+      M2 (Common Gate)
+       |
+      M1 (Common Source)
+       |
+      GND
+
+Input → Gate of M1
+
+Output → Drain of M2
