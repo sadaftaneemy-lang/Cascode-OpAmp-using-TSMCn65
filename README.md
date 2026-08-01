@@ -47,57 +47,12 @@ The cascode configuration:
 
 For a simple amplifier:
 
-A
-v
-	​
-
-=g
-m
-	​
-
-r
-o
 	​
 
 
 For a cascode amplifier:
 
-A
-v
-	​
-
-≈g
-m
-	​
-
-(r
-o
-	​
-
-×g
-m
-	​
-
-r
-o
-	​
-
-)
-
+​
 or approximately
-
-A
-v
-	​
-
-≈g
-m
-	​
-
-r
-o
-2
-	​
-
 
 Since the output resistance becomes much larger, the gain increases significantly
