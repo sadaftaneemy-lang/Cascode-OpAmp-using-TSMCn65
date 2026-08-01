@@ -30,3 +30,15 @@ The top transistor shields the bottom transistor from large drain voltage variat
 Input → Gate of M1
 
 Output → Drain of M2
+
+## Why use a Cascode in an Op-Amp?
+
+A simple differential amplifier has limited gain because its output resistance is limited.
+
+The cascode configuration:
+
+Increases output resistance (ro)
+Increases voltage gain
+Reduces Miller capacitance
+Improves bandwidth
+Improves isolation between input and output
