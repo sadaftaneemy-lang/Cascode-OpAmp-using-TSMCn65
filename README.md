@@ -42,3 +42,62 @@ The cascode configuration:
 - Reduces Miller capacitance
 - Improves bandwidth
 - Improves isolation between input and output
+
+## Voltage Gain
+
+For a simple amplifier:
+
+A
+v
+	​
+
+=g
+m
+	​
+
+r
+o
+	​
+
+
+For a cascode amplifier:
+
+A
+v
+	​
+
+≈g
+m
+	​
+
+(r
+o
+	​
+
+×g
+m
+	​
+
+r
+o
+	​
+
+)
+
+or approximately
+
+A
+v
+	​
+
+≈g
+m
+	​
+
+r
+o
+2
+	​
+
+
+Since the output resistance becomes much larger, the gain increases significantly
