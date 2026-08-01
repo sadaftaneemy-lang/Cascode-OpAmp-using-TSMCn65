@@ -37,8 +37,8 @@ A simple differential amplifier has limited gain because its output resistance i
 
 The cascode configuration:
 
-Increases output resistance (ro)
-Increases voltage gain
-Reduces Miller capacitance
-Improves bandwidth
-Improves isolation between input and output
+- Increases output resistance (ro)
+- Increases voltage gain
+- Reduces Miller capacitance
+- Improves bandwidth
+- Improves isolation between input and output
