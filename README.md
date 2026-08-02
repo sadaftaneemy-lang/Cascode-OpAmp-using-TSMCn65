@@ -56,3 +56,9 @@ For a cascode amplifier:
 or approximately
 
 Since the output resistance becomes much larger, the gain increases significantly
+
+## Components used
+
+**Schematic**
+	- pch_25
+	- nch_25
