@@ -60,5 +60,7 @@ Since the output resistance becomes much larger, the gain increases significantl
 ## Components used
 
 **Schematic**
+
 	- pch_25
+	
 	- nch_25
