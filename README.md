@@ -75,4 +75,11 @@ Reduced Miller effect
 
 Improved stability
 
-Better isolation between input and outpu
+Better isolation between input and output
+
+## Disadvantages
+
+Reduced output voltage swing
+Requires higher supply voltage
+More transistors
+Increased circuit complexity
