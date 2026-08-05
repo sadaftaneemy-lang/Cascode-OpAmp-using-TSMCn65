@@ -62,3 +62,12 @@ Since the output resistance becomes much larger, the gain increases significantl
 **Schematic**
 - pch_25
 - nch_25
+
+## Advantages
+
+Very high DC gain
+High output resistance
+Better frequency response
+Reduced Miller effect
+Improved stability
+Better isolation between input and outpu
