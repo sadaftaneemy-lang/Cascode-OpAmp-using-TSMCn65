@@ -80,6 +80,9 @@ Better isolation between input and output
 ## Disadvantages
 
 Reduced output voltage swing
+
 Requires higher supply voltage
+
 More transistors
+
 Increased circuit complexity
