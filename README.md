@@ -94,3 +94,13 @@ A cascode operational amplifier (cascode op-amp) is an op-amp that uses cascode 
 In simple words:
 
 A cascode op-amp combines an operational amplifier with cascode transistor stages, where one transistor is stacked on top of another to increase the output resistance and therefore the voltage gain
+
+## Why is the cascode used?
+
+The stacked transistors provide:
+
+🔹 Higher voltage gain — due to increased output resistance
+🔹 Higher output resistance
+🔹 Better current-source behavior
+🔹 Improved isolation between input and output
+🔹 Better gain accuracy
