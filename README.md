@@ -86,3 +86,7 @@ Requires higher supply voltage
 More transistors
 
 Increased circuit complexity
+
+## Cascode Op-Amp — Definition
+
+A cascode operational amplifier (cascode op-amp) is an op-amp that uses cascode transistor configurations in its internal stages to achieve high output resistance, high voltage gain, and improved performance compared with a conventional op-amp.
