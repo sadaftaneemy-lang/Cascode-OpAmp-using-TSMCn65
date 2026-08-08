@@ -100,7 +100,11 @@ A cascode op-amp combines an operational amplifier with cascode transistor stage
 The stacked transistors provide:
 
 🔹 Higher voltage gain — due to increased output resistance
+
 🔹 Higher output resistance
+
 🔹 Better current-source behavior
+
 🔹 Improved isolation between input and output
+
 🔹 Better gain accuracy
